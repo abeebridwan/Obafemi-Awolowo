@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+  }
+  .th{
+   background-color: white;
+    padding-top:5em;
+    
+    }
+  .con{
+   background-color: #eee;
+    border-radius:10px;
+    padding-top:2em;
+   
+  }
+  img{
+    width : 500rem;
+    max-width : 500rem;
+    margin: auto;
+    display: block;
+    object-fit: cover;
+    
+  }
+  
+  .hd{
+    padding-top:2em;
+    padding-left:4em;
+    padding-right:4em;
+  }
+  .head-mage{
+    background-color:white;
+    border-radius:5px;
+    }
+  
+  .head-pix{
+    padding-left:0.5rem;
+    padding-right:0.5rem;
+  }
+  .txt-px{
+    padding:0.5rem;
+    padding-bottom:0.1em;
+   }
+  .ojk{
+     padding-top:1em;
+    padding-left:2rem;
+  }
+  .row{
+    padding-top:2em;
+    padding-left:20rem;
+    padding-right:5rem;
+    padding-bottom:0.1em;
+  }
+  #gwb{
+     padding-bottom:1em;
+  }  
