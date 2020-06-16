@@ -2,10 +2,10 @@
   Tribute to Obafemi Awolowo
 
 ## properties
-- Responsive
+- Non-Responsive
 
 ## Deployment
-  Take a look at the live version [here.....](https://olumide025.github.io/Obafemi-Awolowo/.)
+  Take a look at the live version [https://olumide025.github.io/Obafemi-Awolowo/](https://olumide025.github.io/Obafemi-Awolowo/)
 
 ## Author
   Abeeb Ridwan Olumide
