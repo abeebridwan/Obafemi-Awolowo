@@ -13,8 +13,8 @@
    
   }
   img{
-    width : 500rem;
-    max-width : 500rem;
+    width : 50rem;
+    max-width : 50rem;
     margin: auto;
     display: block;
     object-fit: cover;
@@ -51,4 +51,5 @@
   }
   #gwb{
      padding-bottom:1em;
-  }  
+  }
+  
